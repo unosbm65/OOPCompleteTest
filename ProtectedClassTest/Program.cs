@@ -38,7 +38,7 @@ namespace ProtectedClassTest
 
             }
 
-        
+         
 
         static void Main(string[] args)
         {
