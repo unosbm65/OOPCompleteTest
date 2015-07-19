@@ -6,10 +6,31 @@ using System.Threading.Tasks;
 
 namespace Overflow_Underflow
 {
+
+
+
+    class test
+    {
+        public int Sum { get; set; }
+        public string Name { get; set; }
+    }
+
+
+
+
     class Program
     {
+
+        
+
+
         static void Main(string[] args)
         {
+
+            test t=new test();
+            t.Sum = 10;
+            t.Name = "a string";
+
             checked
             {
 
