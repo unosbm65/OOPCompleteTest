@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedClassTest", "NestedCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedClassTest", "ProtectedClassTest\ProtectedClassTest.csproj", "{CEF6D792-694E-41D4-9DE5-DC1132D0528F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", "StringTest\StringTest.csproj", "{26EE8342-249B-4465-9B36-F4BF8A723BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CEF6D792-694E-41D4-9DE5-DC1132D0528F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF6D792-694E-41D4-9DE5-DC1132D0528F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF6D792-694E-41D4-9DE5-DC1132D0528F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EE8342-249B-4465-9B36-F4BF8A723BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EE8342-249B-4465-9B36-F4BF8A723BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EE8342-249B-4465-9B36-F4BF8A723BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EE8342-249B-4465-9B36-F4BF8A723BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
