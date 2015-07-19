@@ -10,9 +10,12 @@ namespace StringTest
     {
         static void Main(string[] args)
         {
+
             TestStringImmutable c = new TestStringImmutable();
             c.m1();
 
+            
+            
 
             TestString T = new TestString();
             T.m1();
