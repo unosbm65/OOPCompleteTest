@@ -11,6 +11,20 @@ namespace StringTest
         static void Main(string[] args)
         {
 
+            var x = default (char);
+
+
+
+            Console.WriteLine(string.Equals("ṻ", "ǖ", StringComparison.CurrentCulture));
+            Console.ReadLine();
+
+
+
+            string a = "a" + 8;
+            Console.WriteLine(a);
+
+           
+
             TestStringImmutable c = new TestStringImmutable();
             c.m1();
 
